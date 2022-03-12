@@ -1,0 +1,15 @@
+C:\Users\Net02\Documents\Ficha 11\Ficha 11\Ficha 11\bin\Debug\net6.0\Ficha 11.exe
+C:\Users\Net02\Documents\Ficha 11\Ficha 11\Ficha 11\bin\Debug\net6.0\Ficha 11.deps.json
+C:\Users\Net02\Documents\Ficha 11\Ficha 11\Ficha 11\bin\Debug\net6.0\Ficha 11.runtimeconfig.json
+C:\Users\Net02\Documents\Ficha 11\Ficha 11\Ficha 11\bin\Debug\net6.0\Ficha 11.dll
+C:\Users\Net02\Documents\Ficha 11\Ficha 11\Ficha 11\bin\Debug\net6.0\ref\Ficha 11.dll
+C:\Users\Net02\Documents\Ficha 11\Ficha 11\Ficha 11\bin\Debug\net6.0\Ficha 11.pdb
+C:\Users\Net02\Documents\Ficha 11\Ficha 11\Ficha 11\obj\Debug\net6.0\Ficha 11.csproj.AssemblyReference.cache
+C:\Users\Net02\Documents\Ficha 11\Ficha 11\Ficha 11\obj\Debug\net6.0\Ficha 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Net02\Documents\Ficha 11\Ficha 11\Ficha 11\obj\Debug\net6.0\Ficha 11.AssemblyInfoInputs.cache
+C:\Users\Net02\Documents\Ficha 11\Ficha 11\Ficha 11\obj\Debug\net6.0\Ficha 11.AssemblyInfo.cs
+C:\Users\Net02\Documents\Ficha 11\Ficha 11\Ficha 11\obj\Debug\net6.0\Ficha 11.csproj.CoreCompileInputs.cache
+C:\Users\Net02\Documents\Ficha 11\Ficha 11\Ficha 11\obj\Debug\net6.0\Ficha 11.dll
+C:\Users\Net02\Documents\Ficha 11\Ficha 11\Ficha 11\obj\Debug\net6.0\ref\Ficha 11.dll
+C:\Users\Net02\Documents\Ficha 11\Ficha 11\Ficha 11\obj\Debug\net6.0\Ficha 11.pdb
+C:\Users\Net02\Documents\Ficha 11\Ficha 11\Ficha 11\obj\Debug\net6.0\Ficha 11.genruntimeconfig.cache
