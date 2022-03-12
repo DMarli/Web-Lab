@@ -1,0 +1,31 @@
+﻿@*@model, é como se fosse using models *@
+@model Ficha10_View.Models.Characters;
+
+@{
+    ViewData["Title"] = "Home Page";
+    string nome = "Olá, eu sou a Marli!";
+}
+@*@{
+    string nome = "Olá, eu sou a Marli!";
+}*@
+
+<div class="text-center">
+    <h1 class="display-4">Let's Go Razor</h1>
+    <p>Mais uma moedinha, mais uma voltinha</p>
+    <p>@DateTime.Now</p>
+    <h3>@nome</h3>
+</div>
+
+<ul>
+    @foreach (var character in Model.CharactersList)
+    {
+        <li>
+        @Html.DisplayFor(modelCharacter => character.Id);
+        @Html.DisplayFor(modelCharacter => character.Born);
+        @Html.DisplayFor(modelCharacter => character.Name);
+        @Html.CheckBoxFor(modelCharacter => character.Jedi);
+        @Html.DisplayFor(modelCharacter => character.Homeworld);
+        @Html.DisplayFor(modelCharacter => character.Gender);
+    </li>
+    }
+</ul>

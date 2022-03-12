@@ -1,0 +1,37 @@
+{
+  "PersonList": [
+    {
+      "Id": 1,
+      "FirstName": "João",
+      "LastName": "Lino",
+      "Gender": "Male",
+      "Age": 52,
+      "Profession": "Professor"
+    },
+    {
+      "Id": 2,
+      "FirstName": "Joka",
+      "LastName": "Loni",
+      "Gender": "Female",
+      "Age": 50,
+      "Profession": "Cozinheira"
+    },
+    {
+      "Id": 3,
+      "FirstName": "Huyli",
+      "LastName": "Dero",
+      "Gender": "Male",
+      "Age": 23,
+      "Profession": "Engenheiro"
+    },
+    {
+      "Id": 4,
+      "FirstName": "Luniti",
+      "LastName": "Foer",
+      "Gender": "Female",
+      "Age": 45,
+      "Profession": "Padeira"
+    }
+  ]
+
+}

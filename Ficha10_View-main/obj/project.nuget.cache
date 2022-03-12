@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SMNNRI0Z5edD89V+IhLjwQFVDo6mTT8mzhi9bMzb6ffTUOwW69WR2FATAN5RiwIYJLPZeNLtiwFIwWKqR6O7iA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Net02\\Documents\\Ficha10_View\\Ficha10_View.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Net02\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
