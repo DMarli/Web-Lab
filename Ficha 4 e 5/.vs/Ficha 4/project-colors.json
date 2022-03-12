@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee5c9778-3d66-425c-bbc4-3fbd0782b25f": {
+      "ProjectGuid": "ee5c9778-3d66-425c-bbc4-3fbd0782b25f",
+      "DisplayName": "Ficha 4",
+      "ColorIndex": 0
+    },
+    "ce809dcf-f4db-4813-a48d-393688ac2d84": {
+      "ProjectGuid": "ce809dcf-f4db-4813-a48d-393688ac2d84",
+      "DisplayName": "Ficha 5",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
