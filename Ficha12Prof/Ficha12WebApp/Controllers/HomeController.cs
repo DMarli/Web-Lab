@@ -14,18 +14,19 @@ namespace Ficha12WebApp.Controllers
             this.service = service;
         }
 
-        /*public IActionResult Index()
-        {
-            var books = service.GetAll();
-            return View(new BooksViewModel { Books = books });
-        }*/
+        //public IActionResult Index()
+        //{
+        //    var books = service.GetAll();
+        //    return View(new BooksViewModel { Books = books });
+        //}
+        //busca os dados através do Book Service
 
         public IActionResult Index()
         {
             IEnumerable<Book> books = null;
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("https://localhost:7240/api/"); //API online
+                client.BaseAddress = new Uri("https://localhost:7240/api/"); //API online, se não estiver a correr não funciona
                 //HTTP GET
                 var responseTask = client.GetAsync("books");
                 responseTask.Wait();
@@ -38,7 +39,7 @@ namespace Ficha12WebApp.Controllers
                     books = task.Result;
                 }
                 else //web api sent error response 
-                {        
+                {
                     books = Enumerable.Empty<Book>();
                     ModelState.AddModelError(string.Empty, "Server error. Please contact administrator.");
                 }
