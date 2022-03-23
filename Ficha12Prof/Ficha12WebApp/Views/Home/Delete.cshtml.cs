@@ -1,13 +1,12 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace Ficha12WebApp.Controllers
+namespace Ficha12WebApp.Views.Home
 {
-    public class CreateModel : PageModel
+    public class Index1Model : PageModel
     {
         public void OnGet()
         {
-
         }
     }
 }

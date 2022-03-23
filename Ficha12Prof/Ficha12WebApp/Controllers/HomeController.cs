@@ -14,38 +14,12 @@ namespace Ficha12WebApp.Controllers
             this.service = service;
         }
 
-        //public IActionResult Index()
-        //{
-        //    var books = service.GetAll();
-        //    return View(new BooksViewModel { Books = books });
-        //}
-        //busca os dados através do Book Service
-
         public IActionResult Index()
         {
-            IEnumerable<Book> books = null;
-            using (var client = new HttpClient())
-            {
-                client.BaseAddress = new Uri("https://localhost:7240/api/"); //API online, se não estiver a correr não funciona
-                //HTTP GET
-                var responseTask = client.GetAsync("books");
-                responseTask.Wait();
-
-                var result = responseTask.Result;
-                if (result.IsSuccessStatusCode)
-                {
-                    var task = result.Content.ReadFromJsonAsync<IEnumerable<Book>>();
-                    task.Wait();
-                    books = task.Result;
-                }
-                else //web api sent error response 
-                {
-                    books = Enumerable.Empty<Book>();
-                    ModelState.AddModelError(string.Empty, "Server error. Please contact administrator.");
-                }
-            }
+            var books = service.GetAll();
             return View(new BooksViewModel { Books = books });
         }
+
 
         //Através do nome do método, é-nos devolvido o nome da View
         public IActionResult Privacy()
@@ -79,5 +53,85 @@ namespace Ficha12WebApp.Controllers
                 return RedirectToAction(nameof(Error));
             }            
         }
+
+        // Update(string isbn, Book book)
+
+        public IActionResult Update()
+        {
+            
+            //var book = service.GetByISBN("1213");
+
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Update(string isbn, Book book)
+        {
+            var updatedBook = service.Update(isbn, book);  // service.GetByISBN(isbn);
+
+            if (updatedBook is not null) {
+
+                return RedirectToAction(nameof(Index));
+            }
+                  
+            else
+            {
+                return RedirectToAction(nameof(Error));
+            }
+        }
+
+        public IActionResult Delete(string isbn)
+        {
+            var updatedBook = service.GetByISBN("1213");
+            return View(updatedBook);
+        }
+
+        [HttpDelete]
+        public async Task<IActionResult> DeleteConfirm(string isbn)
+        {
+            var updatedBook = service.GetByISBN(isbn);
+
+            if (updatedBook is not null)
+            {
+                service.DeleteByISBN(isbn);
+                return RedirectToAction(nameof(Index));
+            }
+
+            else
+            {
+                return RedirectToAction(nameof(Error));
+            }
+
+        }
+
+       
+
+        //busca os dados através do Book Service
+
+        //public IActionResult Index()
+        //{
+        //    IEnumerable<Book> books = null;
+        //    using (var client = new HttpClient())
+        //    {
+        //        client.BaseAddress = new Uri("https://localhost:7240/api/"); //API online, se não estiver a correr não funciona
+        //        //HTTP GET
+        //        var responseTask = client.GetAsync("books");
+        //        responseTask.Wait();
+
+        //        var result = responseTask.Result;
+        //        if (result.IsSuccessStatusCode)
+        //        {
+        //            var task = result.Content.ReadFromJsonAsync<IEnumerable<Book>>();
+        //            task.Wait();
+        //            books = task.Result;
+        //        }
+        //        else //web api sent error response 
+        //        {
+        //            books = Enumerable.Empty<Book>();
+        //            ModelState.AddModelError(string.Empty, "Server error. Please contact administrator.");
+        //        }
+        //    }
+        //    return View(new BooksViewModel { Books = books });
+        //}
     }
 }

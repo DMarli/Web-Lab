@@ -10,7 +10,7 @@
 
         public abstract void DeleteByISBN(string isbn);
 
-        public abstract void Update(string isbn, Book book);
+        public abstract Book Update(string isbn, Book book);
 
         public abstract void UpdatePublisher(string isbn, int publisherId);
 

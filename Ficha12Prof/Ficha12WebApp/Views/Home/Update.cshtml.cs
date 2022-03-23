@@ -3,11 +3,10 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace Ficha12WebApp.Controllers
 {
-    public class CreateModel : PageModel
+    public class UpdateModel : PageModel
     {
         public void OnGet()
         {
-
         }
     }
 }

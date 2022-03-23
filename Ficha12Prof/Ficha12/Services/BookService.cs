@@ -54,7 +54,7 @@ namespace Ficha12.Services
             }
         }
 
-        public void Update(string isbn, Book book)
+        public Book Update(string isbn, Book book)
         {
             var bookToUpdate = context.Books.Find(isbn);
             if (bookToUpdate is null)
@@ -72,6 +72,8 @@ namespace Ficha12.Services
 
                 context.SaveChanges();
             }
+
+            return bookToUpdate;
         }
 
         public void UpdatePublisher(string isbn, int publisherId)
