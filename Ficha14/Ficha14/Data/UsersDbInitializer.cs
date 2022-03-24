@@ -6,8 +6,8 @@ namespace Ficha14.Data
     {
         public static void InsertData(UserContext context)
         {          
-            // Adds some books
-            context.Users.Add(new UserModel
+            // Adds some users
+            context.Users.Add(new User //model
             {
                
                 UserName = "djardim",              
