@@ -56,12 +56,12 @@ namespace Ficha12WebApp.Controllers
 
         // Update(string isbn, Book book)
 
-        public IActionResult Update()
+        public IActionResult Update(string isbn)
         {
             
-            //var book = service.GetByISBN("1213");
+            var book = service.GetByISBN(isbn);
 
-            return View();
+            return View(book);
         }
 
         [HttpPost]
@@ -82,21 +82,12 @@ namespace Ficha12WebApp.Controllers
 
         public IActionResult Delete(string isbn)
         {
-            var updatedBook = service.GetByISBN("1213");
-            return View(updatedBook);
-        }
-
-        [HttpDelete]
-        public async Task<IActionResult> DeleteConfirm(string isbn)
-        {
-            var updatedBook = service.GetByISBN(isbn);
-
-            if (updatedBook is not null)
+            var book = service.GetByISBN(isbn);
+            if (book is not null)
             {
                 service.DeleteByISBN(isbn);
                 return RedirectToAction(nameof(Index));
             }
-
             else
             {
                 return RedirectToAction(nameof(Error));
@@ -104,7 +95,7 @@ namespace Ficha12WebApp.Controllers
 
         }
 
-       
+
 
         //busca os dados através do Book Service
 
