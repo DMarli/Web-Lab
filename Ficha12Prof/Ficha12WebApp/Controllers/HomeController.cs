@@ -80,9 +80,19 @@ namespace Ficha12WebApp.Controllers
             }
         }
 
-        public IActionResult Delete(string isbn)
+
+        public IActionResult DeleteConfirm(string isbn)
         {
             var book = service.GetByISBN(isbn);
+            return View(book);
+
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(string isbn)
+        {
+            var book = service.GetByISBN(isbn);
+
             if (book is not null)
             {
                 service.DeleteByISBN(isbn);
@@ -94,8 +104,6 @@ namespace Ficha12WebApp.Controllers
             }
 
         }
-
-
 
         //busca os dados através do Book Service
 
