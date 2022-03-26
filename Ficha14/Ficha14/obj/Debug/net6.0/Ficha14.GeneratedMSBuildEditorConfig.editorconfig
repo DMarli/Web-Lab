@@ -8,41 +8,73 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ficha14
 build_property.RootNamespace = Ficha14
-build_property.ProjectDir = C:\Users\Net02\Documents\Web-Lab\Ficha14\Ficha14\
+build_property.ProjectDir = C:\Users\marli\Documents\LabWeb\Web-Lab\Ficha14\Ficha14\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Net02\Documents\Web-Lab\Ficha14\Ficha14
+build_property.MSBuildProjectDirectory = C:\Users\marli\Documents\LabWeb\Web-Lab\Ficha14\Ficha14
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/Home/Index.cshtml]
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Ficha14/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmljaGExNFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Ficha14/Views/Home/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmljaGExNFxWaWV3c1xIb21lXFNpZ25VcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Ficha14/Views/Home/UserDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmljaGExNFxWaWV3c1xIb21lXFVzZXJEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Ficha14/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmljaGExNFxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Ficha14/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmljaGExNFxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Ficha14/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmljaGExNFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Ficha14/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmljaGExNFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/Home/SignUp.cshtml]
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Views/Home/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/Home/UserDetails.cshtml]
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Views/Home/UserDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc2VyRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/Shared/Error.cshtml]
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/_ViewImports.cshtml]
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/_ViewStart.cshtml]
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/Shared/_Layout.cshtml]
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Ficha14/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmljaGExNFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-lgnktjee7h
+
+[C:/Users/marli/Documents/LabWeb/Web-Lab/Ficha14/Ficha14/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-yqtjkk0tjj
