@@ -1,4 +1,5 @@
 ﻿@model Ficha14.Models.User
+
 @{
     ViewData["Title"] = "Login";
 }
@@ -6,7 +7,7 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Login"> @*endpoint no nosso HomeController chamado login*@
+        <form asp-action="Index"> @*endpoint no nosso HomeController chamado login*@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="UserName" class="control-label"></label>
@@ -19,8 +20,9 @@
                 <span asp-validation-for="Password" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Login" class="btn btn-primary" />
+                <input type="submit" value="Index" class="btn btn-primary" />
             </div>
         </form>
+         <a asp-action="SignUp" >SignUp</a>
     </div>
 </div>

@@ -15,12 +15,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Net02\Documents\Web-Lab\Ficha14\Ficha14
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/Home/Image.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbWFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/Home/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/Home/Upload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGxvYWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/Home/UserDetails.cshtml]
@@ -37,10 +45,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Net02/Documents/Web-Lab/Ficha14/Ficha14/Views/Shared/_Layout.cshtml]
