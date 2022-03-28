@@ -259,3 +259,14 @@ C:\Users\Net02\Documents\Web-Lab\Ficha14\Ficha14\bin\Debug\net6.0\zh-Hant\Micros
 C:\Users\Net02\Documents\Web-Lab\Ficha14\Ficha14\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Net02\Documents\Web-Lab\Ficha14\Ficha14\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Net02\Documents\Web-Lab\Ficha14\Ficha14\obj\Debug\net6.0\Ficha14.csproj.AssemblyReference.cache
+C:\Users\marli\Documents\LabWeb\Web-Lab\Ficha14\Ficha14\obj\Debug\net6.0\Ficha14.csproj.AssemblyReference.cache
+C:\Users\marli\Documents\LabWeb\Web-Lab\Ficha14\Ficha14\obj\Debug\net6.0\Ficha14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marli\Documents\LabWeb\Web-Lab\Ficha14\Ficha14\obj\Debug\net6.0\Ficha14.AssemblyInfoInputs.cache
+C:\Users\marli\Documents\LabWeb\Web-Lab\Ficha14\Ficha14\obj\Debug\net6.0\Ficha14.AssemblyInfo.cs
+C:\Users\marli\Documents\LabWeb\Web-Lab\Ficha14\Ficha14\obj\Debug\net6.0\Ficha14.csproj.CoreCompileInputs.cache
+C:\Users\marli\Documents\LabWeb\Web-Lab\Ficha14\Ficha14\obj\Debug\net6.0\Ficha14.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marli\Documents\LabWeb\Web-Lab\Ficha14\Ficha14\obj\Debug\net6.0\Ficha14.RazorAssemblyInfo.cache
+C:\Users\marli\Documents\LabWeb\Web-Lab\Ficha14\Ficha14\obj\Debug\net6.0\Ficha14.RazorAssemblyInfo.cs
+C:\Users\marli\Documents\LabWeb\Web-Lab\Ficha14\Ficha14\obj\Debug\net6.0\Ficha14.dll
+C:\Users\marli\Documents\LabWeb\Web-Lab\Ficha14\Ficha14\obj\Debug\net6.0\ref\Ficha14.dll
+C:\Users\marli\Documents\LabWeb\Web-Lab\Ficha14\Ficha14\obj\Debug\net6.0\Ficha14.pdb
