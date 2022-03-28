@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Net02\\Documents\\Web-Lab\\Ficha12Prof\\Ficha12\\Ficha12API.csproj": {}
+    "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\Ficha12Prof\\Ficha12\\Ficha12API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Net02\\Documents\\Web-Lab\\Ficha12Prof\\Ficha12\\Ficha12API.csproj": {
+    "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\Ficha12Prof\\Ficha12\\Ficha12API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Net02\\Documents\\Web-Lab\\Ficha12Prof\\Ficha12\\Ficha12API.csproj",
+        "projectUniqueName": "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\Ficha12Prof\\Ficha12\\Ficha12API.csproj",
         "projectName": "Ficha12API",
-        "projectPath": "C:\\Users\\Net02\\Documents\\Web-Lab\\Ficha12Prof\\Ficha12\\Ficha12API.csproj",
-        "packagesPath": "C:\\Users\\Net02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Net02\\Documents\\Web-Lab\\Ficha12Prof\\Ficha12\\obj\\",
+        "projectPath": "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\Ficha12Prof\\Ficha12\\Ficha12API.csproj",
+        "packagesPath": "C:\\Users\\marli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\Ficha12Prof\\Ficha12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Net02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

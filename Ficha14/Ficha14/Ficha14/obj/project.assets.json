@@ -9937,19 +9937,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Net02\\.nuget\\packages\\": {}
+    "C:\\Users\\marli\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Net02\\Documents\\Web-Lab\\Ficha14\\Ficha14\\Ficha14.csproj",
+      "projectUniqueName": "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\Ficha14\\Ficha14\\Ficha14\\Ficha14.csproj",
       "projectName": "Ficha14",
-      "projectPath": "C:\\Users\\Net02\\Documents\\Web-Lab\\Ficha14\\Ficha14\\Ficha14.csproj",
-      "packagesPath": "C:\\Users\\Net02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Net02\\Documents\\Web-Lab\\Ficha14\\Ficha14\\obj\\",
+      "projectPath": "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\Ficha14\\Ficha14\\Ficha14\\Ficha14.csproj",
+      "packagesPath": "C:\\Users\\marli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\Ficha14\\Ficha14\\Ficha14\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Net02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marli\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
