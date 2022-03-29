@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Ficha12",
+    "\\Ficha12\\bin",
+    "\\Ficha12\\bin\\Debug",
+    "\\Ficha12\\bin\\Release",
+    "\\Ficha12\\Data",
+    "\\Ficha12\\Models",
+    "\\Ficha12\\obj",
+    "\\Ficha12\\obj\\Debug",
+    "\\Ficha12\\obj\\Release"
+  ],
+  "SelectedNode": "\\Ficha12\\Controllers\\BooksController.cs",
+  "PreviewInSolutionExplorer": false
+}
