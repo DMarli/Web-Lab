@@ -14,14 +14,14 @@ namespace EstudoFicha12.Models
         public DbSet<Book> Books { get; set; }
         public DbSet<Publisher> Publishers { get; set; }
 
-        //Construtor por parâmetros, gerar e só colocar <LibraryContext>
+       //Construtor por parâmetros, gerar e só colocar <LibraryContext>
         public LibraryContext(DbContextOptions<LibraryContext> options) : base(options)
         {
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySQL("server=localhost; database=library;" + "user=root; password=password");
+            optionsBuilder.UseMySQL("server=localhost; database=library;" + "user=root; password=2021");
             //É aqui que alteramos o utilizador e password para coincidir com a nossa DB
         }
         protected override void OnModelCreating (ModelBuilder modelBuilder)

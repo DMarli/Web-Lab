@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mcy4cg8oGht0yKpscF8Uq/KxABFOG5lB81CEqJdiJxr86dhFBgeJ8y8O7QGLHsTKyT+ybRXqQ65u9kB7pzHC3w==",
+  "dgSpecHash": "QElaPzpdHygixwNMmwGzpMjyIvBNlUfTeKQdDRL4vaNnRzAnNGURo7aGBveaGwlqxfGc6GLKli3rETOKVKzcuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marli\\source\\repos\\EstudoFicha12\\EstudoFicha12.csproj",
+  "projectFilePath": "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\EstudoFicha12\\EstudoFicha12.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marli\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\marli\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",

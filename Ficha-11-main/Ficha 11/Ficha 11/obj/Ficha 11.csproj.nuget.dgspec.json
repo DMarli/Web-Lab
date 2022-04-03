@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Net02\\Documents\\Ficha 11\\Ficha 11\\Ficha 11\\Ficha 11.csproj": {}
+    "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\Ficha-11-main\\Ficha 11\\Ficha 11\\Ficha 11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Net02\\Documents\\Ficha 11\\Ficha 11\\Ficha 11\\Ficha 11.csproj": {
+    "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\Ficha-11-main\\Ficha 11\\Ficha 11\\Ficha 11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Net02\\Documents\\Ficha 11\\Ficha 11\\Ficha 11\\Ficha 11.csproj",
+        "projectUniqueName": "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\Ficha-11-main\\Ficha 11\\Ficha 11\\Ficha 11.csproj",
         "projectName": "Ficha 11",
-        "projectPath": "C:\\Users\\Net02\\Documents\\Ficha 11\\Ficha 11\\Ficha 11\\Ficha 11.csproj",
-        "packagesPath": "C:\\Users\\Net02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Net02\\Documents\\Ficha 11\\Ficha 11\\Ficha 11\\obj\\",
+        "projectPath": "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\Ficha-11-main\\Ficha 11\\Ficha 11\\Ficha 11.csproj",
+        "packagesPath": "C:\\Users\\marli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\Ficha-11-main\\Ficha 11\\Ficha 11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Net02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

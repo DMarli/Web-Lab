@@ -1612,11 +1612,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marli\\source\\repos\\EstudoFicha12\\EstudoFicha12.csproj",
+      "projectUniqueName": "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\EstudoFicha12\\EstudoFicha12.csproj",
       "projectName": "EstudoFicha12",
-      "projectPath": "C:\\Users\\marli\\source\\repos\\EstudoFicha12\\EstudoFicha12.csproj",
+      "projectPath": "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\EstudoFicha12\\EstudoFicha12.csproj",
       "packagesPath": "C:\\Users\\marli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marli\\source\\repos\\EstudoFicha12\\obj\\",
+      "outputPath": "C:\\Users\\marli\\Documents\\LabWeb\\Web-Lab\\EstudoFicha12\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marli\\AppData\\Roaming\\NuGet\\NuGet.Config",
